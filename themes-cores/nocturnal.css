@@ -3379,3 +3379,7 @@ button.button_f67531>.contents_dd4f85>svg>path[fill*="var(--interactive-normal)"
     background-color: var(--backgroundColor02) !important;
     --__header-bar-background: var(--backgroundColor02);
 }
+
+.themedBackground_bdf0de {
+    background-color: var(--backgroundColor01) !important;
+}
