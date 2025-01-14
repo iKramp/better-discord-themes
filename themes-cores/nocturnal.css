@@ -3383,3 +3383,7 @@ button.button_f67531>.contents_dd4f85>svg>path[fill*="var(--interactive-normal)"
 .themedBackground_bdf0de {
     background-color: var(--backgroundColor01) !important;
 }
+
+.chatContent_a7d72e {
+    background-color: var(--backgroundColor02) !important;
+}
