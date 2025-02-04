@@ -3463,3 +3463,32 @@ button.button__67645>.contents__201d5>svg>path[fill*="var(--interactive-normal)"
 .file__0ccae{
     background-color: var(--backgroundColor01);
 }
+
+.container_fc4f04 {
+    background-color: var(--backgroundColor02) !important;
+    --__header-bar-background: var(--backgroundColor02);
+}
+
+.themedBackground_bdf0de {
+    background-color: var(--backgroundColor01) !important;
+}
+
+.chatContent_a7d72e {
+    background-color: var(--backgroundColor02) !important;
+}
+
+.visual-refresh .container_fc4f04 {
+    --__header-bar-background: var(--backgroundColor02) !important;
+}
+
+.header_fd6364 {
+    background-color: var(--backgroundColor02) !important;
+}
+
+.peopleColumn_c2739c {
+    background-color: var(--backgroundColor02) !important;
+}
+
+.footer_d71945 {
+    background-color: var(--backgroundColor02) !important;
+}
