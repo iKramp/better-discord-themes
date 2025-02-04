@@ -7,7 +7,7 @@
 * @source https://github.com/xcruxiex/themes
 * @website https://betterdiscord.app/theme/Nocturnal
 */
-@import url("https://raw.githubusercontent.com/iKramp/better-discord-themes/master/themes-cores/nocturnal.css");
+@import url("https://raw.githubusercontent.com/iKramp/better-discord-themes/update-test/themes-cores/nocturnal.css");
 /*
                                                                                                                                                                      
                                                                                                                                                                      
@@ -30,32 +30,39 @@ NNNNNNNN         NNNNNNN   ooooooooooo       cccccccccccccccc          ttttttttt
                                                                                                                                                                      
                                                                                                                                                                      
 */
-@import url("https://raw.githubusercontent.com/iKramp/better-discord-themes/master/core/badges.css");
-@import url("https://raw.githubusercontent.com/iKramp/better-discord-themes/master/core/custom-font.css");
+@import url("https://raw.githubusercontent.com/iKramp/better-discord-themes/update-test/core/badges.css");
+@import url("https://raw.githubusercontent.com/iKramp/better-discord-themes/update-test/core/custom-font.css");
+@import url("https://xcruxiex.github.io/themes/core/settings-icons.css");
 :root {
-  --backgroundColor01: #1e2731;
-  --backgroundColor02: #12171d;
-  --mainColor: #2275c9;
-  --gradientColor01: #00F260;
-  --gradientColor02: #0575E6;
+    --backgroundColor01: #1e2731;
+    --backgroundColor02: #12171d;
+    --mainColor: #2275c9;
+    --gradientColor01: #00f260;
+    --gradientColor02: #0575e6;
 
-  /* Better Hljs */
-  --backgroundCode: #1e2731;
-  --backgroundName: rgba(0, 0, 0, .2);
+    /* Better Hljs */
+    --backgroundCode: #1e2731;
+    --backgroundName: rgba(0, 0, 0, 0.2);
 
-  /* Radial Status */
-  --rs-small-spacing: 2px;
-  --rs-large-spacing: 3px;
-  --rs-width: 2px;
-  --rs-avatar-shape: 50%;
-  --rs-online-color: #43b581;
-  --rs-idle-color: #faa61a;
-  --rs-dnd-color: #f04747;
-  --rs-offline-color: #636b75;
-  --rs-streaming-color: #643da7;
-  --rs-invisible-color: #747f8d;
-  --rs-phone-visible: block;
-  --rs-phone-color: var(--rs-online-color);
+    /* Radial Status */
+    --rs-small-spacing: 2px;
+    --rs-large-spacing: 3px;
+    --rs-width: 2px;
+    --rs-avatar-shape: 50%;
+    --rs-online-color: #43b581;
+    --rs-idle-color: #faa61a;
+    --rs-dnd-color: #f04747;
+    --rs-offline-color: #636b75;
+    --rs-streaming-color: #643da7;
+    --rs-invisible-color: #747f8d;
+    --rs-phone-visible: block;
+    --rs-phone-color: var(--rs-online-color);
 
-  --customFont: 'gg sans', sans-serif;
+    /* Unread Animation :
+    none -> static point.
+    pulse -> pulsating point
+    */
+    --unread-animation: pulse;
+
+    --customFont: "gg sans", sans-serif;
 }
