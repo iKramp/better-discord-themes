@@ -3536,3 +3536,20 @@ div > [aria-label='Open GIF picker'] {
 div > [aria-label='Open sticker picker'] {
     display: none !important;
 }
+
+
+.content__99f8c {
+    background-color: var(--backgroundColor02) !important;
+}
+
+.container__9a337 {
+    background-color: var(--backgroundColor01) !important;
+}
+
+.container_d9be46 {
+    background-color: var(--backgroundColor01) !important;
+}
+
+.submitButton_d9be46 {
+    border: none !important;
+}
