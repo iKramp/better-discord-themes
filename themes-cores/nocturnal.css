@@ -3598,3 +3598,7 @@ div > [aria-label='Open sticker picker'] {
 .container__0f2e8 {
     background-color: var(--backgroundColor01) !important;
 }
+
+.spoilerWrapper__41ea0 {
+    background-color: var(--backgroundColor02) !important;
+}
