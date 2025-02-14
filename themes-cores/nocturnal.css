@@ -3581,3 +3581,20 @@ div > [aria-label='Open sticker picker'] {
 .channelRow_e4503a {
     background-color: var(--backgroundColor01) !important;
 }
+
+.list_c441f0 {
+    background-color: var(--backgroundColor02) !important;
+}
+
+.container_faa96b {
+    background-color: var(--backgroundColor01) !important;
+}
+
+.container_d9be46 {
+    background-color: var(--backgroundColor02) !important;
+    border-radius: inherit
+}
+
+.container__0f2e8 {
+    background-color: var(--backgroundColor01) !important;
+}
