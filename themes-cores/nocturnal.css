@@ -3565,3 +3565,11 @@ div > [aria-label='Open sticker picker'] {
 .upload_aa605f {
     background-color: var(--backgroundColor02) !important;
 }
+
+.visual-refresh .container__0b563 {
+    background-color: var(--backgroundColor02) !important;
+}
+
+.prompt__5d7c9 {
+    background-color: var(--backgroundColor01) !important;
+}
