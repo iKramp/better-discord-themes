@@ -3553,3 +3553,7 @@ div > [aria-label='Open sticker picker'] {
 .submitButton_d9be46 {
     border: none !important;
 }
+
+.message__5126c:hover {
+    background-color: var(--backgroundColor03) !important;
+}
