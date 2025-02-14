@@ -3557,3 +3557,11 @@ div > [aria-label='Open sticker picker'] {
 .message__5126c:hover {
     background-color: var(--backgroundColor03) !important;
 }
+
+.channelAttachmentArea_b77158 {
+    background-color: var(--backgroundColor01) !important;
+}
+
+.upload_aa605f {
+    background-color: var(--backgroundColor02) !important;
+}
