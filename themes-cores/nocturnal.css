@@ -3610,3 +3610,12 @@ div > [aria-label='Open sticker picker'] {
 .chatHeaderBar_dc83f5{
     background-color: var(--backgroundColor02) !important;
 }
+
+.memberInner__5d473 {
+    width: inherit !important;
+    padding-left: 16px !important;
+}
+
+.childContainer__91a9d {
+    padding: 0
+}
