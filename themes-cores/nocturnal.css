@@ -3619,3 +3619,27 @@ div > [aria-label='Open sticker picker'] {
 .childContainer__91a9d {
     padding: 0
 }
+
+.header_c0e32c {
+    background-color: var(--backgroundColor01) !important;
+}
+
+.scrollerBase_d125d2 {
+    background-color: var(--backgroundColor01) !important;
+}
+
+.unicodeShortcut_b9ee0c {
+    background-color: var(--backgroundColor01) !important;
+}
+
+.container__34c2c {
+    background-color: var(--backgroundColor01) !important;
+}
+
+.searchBar__97492 {
+    width: 175px !important;
+}
+
+.searchBar__97492:hover {
+    width: 244px !important;
+}
