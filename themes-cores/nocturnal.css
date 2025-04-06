@@ -3643,3 +3643,7 @@ div > [aria-label='Open sticker picker'] {
 .searchBar__97492:hover {
     width: 244px !important;
 }
+
+.editing__5126c {
+    background-color: var(--backgroundColor02) !important;
+}
