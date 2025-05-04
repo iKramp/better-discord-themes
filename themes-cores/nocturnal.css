@@ -3569,3 +3569,31 @@ button.button__67645>.contents__201d5>svg>path[fill*="var(--interactive-normal)"
 .visual-refresh .container_c8ffbb{border: none !important;}
 .visual-refresh .container__01ae2{background-color: transparent;}
 .field__1fed1{background-color: var(--backgroundColor);}
+
+
+
+ 
+
+.buttons__74017 {
+    gap: 0 !important;
+}
+
+.emojiButton__04eed  {
+    margin: var(--space-8);
+}
+
+.channelAppLauncher_e6e74f {
+    display: none !important;
+}
+
+[aria-label='Send a gift'] {
+    display: none !important;
+}
+
+div > [aria-label='Open GIF picker'] {
+    display: none !important;
+}
+
+div > [aria-label='Open sticker picker'] {
+    display: none !important;
+}
