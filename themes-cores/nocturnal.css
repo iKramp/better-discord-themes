@@ -3597,3 +3597,20 @@ div > [aria-label='Open GIF picker'] {
 div > [aria-label='Open sticker picker'] {
     display: none !important;
 }
+
+
+li > div > [data-list-item-id="private-channels-uid_4606___nitro"] {
+    display: none !important;
+}
+
+li > div > [data-list-item-id="private-channels-uid_4606___shop"] {
+    display: none !important;
+}
+
+li > div > [data-list-item-id="private-channels-uid_4606___quests"] {
+    display: none !important;
+}
+
+.body__00943 > .wrapper__960df {
+    display: none !important;
+}
