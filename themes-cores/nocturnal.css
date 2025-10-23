@@ -3599,15 +3599,15 @@ div > [aria-label='Open sticker picker'] {
 }
 
 
-li > div > [data-list-item-id="private-channels-uid_4606___nitro"] {
+li > div > [href="/store"] {
     display: none !important;
 }
 
-li > div > [data-list-item-id="private-channels-uid_4606___shop"] {
+li > div > [href="/shop"] {
     display: none !important;
 }
 
-li > div > [data-list-item-id="private-channels-uid_4606___quests"] {
+li > div > [href = "/quest-home"] {
     display: none !important;
 }
 
