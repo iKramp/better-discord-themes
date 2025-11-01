@@ -3614,3 +3614,15 @@ li > div > [href = "/quest-home"] {
 .body__00943 > .wrapper__960df {
     display: none !important;
 }
+
+.searchBar_e6b769 {
+    background:var(--backgroundColor02);
+}
+
+.panels__5e434 {
+    background:var(--backgroundColor01);
+}
+
+.privateChannels_e6b769{
+    background:var(--backgroundColor02);
+}
